@@ -4,7 +4,7 @@ import subprocess
 from datetime import datetime, timedelta
 
 # Path to your 7x52 image
-image_path = "pixil-frame-0 (1).png"  # Ensure the name matches exactly
+image_path = "pixel_art.png"  # Ensure the name matches exactly
 
 # Define the filename to modify with each commit
 FILENAME = "art.txt"
